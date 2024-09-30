@@ -18,6 +18,13 @@
 <h3 align="center">Para acessar o repositório de Front-end, <a href="https://github.com/MirageGroup/API_MirageGroup_5_Semestre_Front">clique aqui</a>.</h3>
 <h3 align="center">Para acessar o repositório de Back-end, <a href="https://github.com/MirageGroup/API_MirageGroup_5_Semestre_Back">clique aqui</a>.</h3>
 
+<div>
+  <h2>Projeto rodando...</h2>
+</div>
+<div>
+  <img align="center" src="/assets/1°sprint-Kersys.gif">
+</div>
+
 <div align= "center">
   <h2>Principais tecnologias</h2>  
 </div>
