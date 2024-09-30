@@ -55,8 +55,6 @@ O aplicativo também deve ter a capacidade de exibir dados consolidados de tempe
 
 <p dir="auto">A Kersys foi fundada em 2001 e é uma empresa brasileira de gestão para áreas florestais e do agronegócio. Possui matriz localizada no interior de São Paulo, em São José dos Campos.
 
-<p dir="auto">→ <a href="#topo">Voltar ao topo</a></p>
-
   
 <h2> Entregas de Sprints</h2>
 
@@ -71,7 +69,6 @@ Cada entrega foi realizada a partir da criação de uma **tag**. Observe a rela�
 
 <div align="center" dir="auto">
 
-→ [Voltar ao topo](#topo)
 </div>
 
 <h2>Comandos para Inicialização</h2>
@@ -79,17 +76,12 @@ Cada entrega foi realizada a partir da criação de uma **tag**. Observe a rela�
 
 npm install
 
-
 Para executar a aplicação:
 
 front-end: npm run android | back-end: npm run dev
   </div>
 
 <br>
-
-
-
-<p dir="auto">→ <a href="#topo">Voltar ao topo</a></p>
 
 <span id="user-content-levantamento">
 <h2 align="center" dir="auto"><a id="user-content-pencil-levantamento-de-requisitos" class="anchor" aria-hidden="true" href="#pencil-levantamento-de-requisitos"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Levantamento de Requisitos</h2>
@@ -105,19 +97,9 @@ front-end: npm run android | back-end: npm run dev
 <span id="user-content-planejamento">
 <h2 align="center" dir="auto"><a id="user-content-busts_in_silhouette-planejamento-de-classes" class="anchor" aria-hidden="true" href="#busts_in_silhouette-planejamento-de-classes"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="busts_in_silhouette" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png?v8">📆</g-emoji> Planejamento</h2>
 
-<!-- ![BacklogMirage](https://github.com/MirageGroup/API_MirageGroup_4sem/assets/112117985/cf707470-6f6b-47bb-a7de-5cc50e9f2afb) -->
 
 <img src="/assets/cronograma de entregas.png"  alt="cronograma de entregas"/>
 
-<!--
-<p dir="auto">→ <a href="#topo">Voltar ao topo</a></p>
-<span id="user-content-prototipo">
-<h2 align="center" dir="auto"><a id="user-content-desktop_computer-protótipo" class="anchor" aria-hidden="true" href="#desktop_computer-protótipo"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">✏️</g-emoji> Protótipo</h2>
-<p dir="auto">Após receber o projeto gráfico do cliente começamos a prototipagem do projeto</p>
-<ul dir="auto">
-<li> A primeira fase do protótipo dinâmico foi realizada usando o Figma, , e você pode acessá-lo através <a href="https://www.figma.com/file/EYOOdanWIVdDu6WX3z6o5Z/API-3%C2%B0-Semestre?type=design&node-id=0%3A1&mode=design&t=DT8Vj2HqbhtAE70S-1" rel="nofollow">deste link</a>.</li>
-</ul>
--->
 <span id="user-content-org-equipe">
 <h2 align="center" dir="auto"><a id="user-content-busts_in_silhouette-organização-da-equipe" class="anchor" aria-hidden="true" href="#busts_in_silhouette-organização-da-equipe"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="busts_in_silhouette" fallback-
 <div align="center" dir="auto">
