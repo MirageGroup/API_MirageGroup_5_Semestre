@@ -14,22 +14,22 @@
   <h1>Repositório do projeto de API para a empresa Kersys</h1>  
 </div>
 
-<h3 align="center" dir="auto">Repositório geral do projeto de API do 5º semestre do MirageGroup, da turma de ADS da Fatec SJC 2-2024.</h3>
+<h3 align="center" dir="auto">Repositório geral do projeto de API do 5º semestre do MirageGroup, da turma de ADS da Fatec SJC 2024-2.</h3>
 <h3 align="center">Para acessar o repositório de Front-end, <a href="https://github.com/MirageGroup/API_MirageGroup_5_Semestre_Front">clique aqui</a>.</h3>
 <h3 align="center">Para acessar o repositório de Back-end, <a href="https://github.com/MirageGroup/API_MirageGroup_5_Semestre_Back">clique aqui</a>.</h3>
 
-<div>
-  <h2>Projeto rodando...</h2>
+<div align="center">
+  <h1>Projeto rodando...</h1>
 </div>
-<div>
-  <img align="center" src="/assets/1°sprint-Kersys.gif" >
+<div align="center">
+  <img src="/assets/1°sprint-Kersys.gif" width="30%">
 </div>
 
 <div align= "center">
   <h2>Principais tecnologias</h2>  
 </div>
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 8px;"> 
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 8px;" align="center"> 
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   
   <img src="https://img.shields.io/badge/react--native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -107,7 +107,7 @@ front-end: npm run android | back-end: npm run dev
 
 <!-- ![BacklogMirage](https://github.com/MirageGroup/API_MirageGroup_4sem/assets/112117985/cf707470-6f6b-47bb-a7de-5cc50e9f2afb) -->
 
-<img src="/assets/cronograma de entregas.png" alt="cronograma de entregas"/>
+<img src="/assets/cronograma de entregas.png"  alt="cronograma de entregas"/>
 
 <!--
 <p dir="auto">→ <a href="#topo">Voltar ao topo</a></p>
