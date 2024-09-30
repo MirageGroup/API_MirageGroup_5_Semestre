@@ -22,7 +22,7 @@
   <h2>Projeto rodando...</h2>
 </div>
 <div>
-  <img align="center" src="/assets/1°sprint-Kersys.gif">
+  <img align="center" src="/assets/1°sprint-Kersys.gif" >
 </div>
 
 <div align= "center">
@@ -107,7 +107,7 @@ front-end: npm run android | back-end: npm run dev
 
 <!-- ![BacklogMirage](https://github.com/MirageGroup/API_MirageGroup_4sem/assets/112117985/cf707470-6f6b-47bb-a7de-5cc50e9f2afb) -->
 
-<img src="assets/cronograma-sprints.jpeg" alt="cronograma de entregas"/>
+<img src="/assets/cronograma de entregas.png" alt="cronograma de entregas"/>
 
 <!--
 <p dir="auto">→ <a href="#topo">Voltar ao topo</a></p>
