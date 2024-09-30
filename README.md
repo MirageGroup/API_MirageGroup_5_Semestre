@@ -140,19 +140,18 @@ front-end: npm run android | back-end: npm run dev
 
 <h3>Equipe<h3>
   
-<!-- ![API Sprint 3 (2)](https://user-images.githubusercontent.com/111614142/204145671-e6198771-efa2-400a-8b8d-9d443c0abd9b.png) -->
 
 |    Função    | Nome                     |                     GitHub                     |                    Linkedin                    |
 | :----------: | :----------------------- | :--------------------------------------------: | :--------------------------------------------: |
-| Scrum Master | Vinícius Henrique        |    [GitHub](https://github.com/vinihsr)| [Linkedin](https://www.linkedin.com/in/vinicius-henrique-1a016524a/) |
 |      PO      | Gustavo Alves            |    [GitHub](https://github.com/ogustavoalves)   | [Linkedin](https://www.linkedin.com/in/ogustavoalves/) |
-|   Dev Team   | Gustavo Henrique         |    [GitHub](https://github.com/gustavohpereira)  | [Linkedin](https://www.linkedin.com/in/gustavohpa/) |
-|   Dev Team   | Victor Guilherme Branco  |    [GitHub](https://github.com/VictorGuui)     | [Linkedin](https://www.linkedin.com/in/victor-guilherme-branco-portela-323386190/)|
-|   Dev Team   | Pedro Henrique Pucci     |    [GitHub](https://github.com/pedro11pucci)   | [Linkedin](https://www.linkedin.com/in/pedro-p-122962234/)|
-|   Dev Team   | Luís Antonio Cardoso     |    [GitHub](https://github.com/LuisSCardoso) | [Linkedin](https://www.linkedin.com/in/luisscardoso/)|
-|   Dev Team   | Gisele Reis              |    [GitHub](https://github.com/gisele-reis) | [Linkedin](https://www.linkedin.com/in/giselealvesreis/)|
-|   Dev Team   | Jacqueline Bezerra       |    [GitHub](https://github.com/jxqlnm) | [Linkedin](https://www.linkedin.com/in/jacqueline-mariane/)|
+| Scrum Master | Vinícius Henrique        |    [GitHub](https://github.com/vinihsr)| [Linkedin](https://www.linkedin.com/in/vinicius-henrique-1a016524a/) |
 |   Dev Team   | Caio Yokoyama            |    [GitHub](https://github.com/Caboia) | [Linkedin](https://www.linkedin.com/in/caioyokoyama/)|
+|   Dev Team   | Gisele Reis              |    [GitHub](https://github.com/gisele-reis) | [Linkedin](https://www.linkedin.com/in/giselealvesreis/)|
+|   Dev Team   | Gustavo Henrique         |    [GitHub](https://github.com/gustavohpereira)  | [Linkedin](https://www.linkedin.com/in/gustavohpa/) |
+|   Dev Team   | Jacqueline Bezerra       |    [GitHub](https://github.com/jxqlnm) | [Linkedin](https://www.linkedin.com/in/jacqueline-mariane/)|
+|   Dev Team   | Luís Antonio Cardoso     |    [GitHub](https://github.com/LuisSCardoso) | [Linkedin](https://www.linkedin.com/in/luisscardoso/)|
+|   Dev Team   | Pedro Henrique Pucci     |    [GitHub](https://github.com/pedro11pucci)   | [Linkedin](https://www.linkedin.com/in/pedro-p-122962234/)|
+|   Dev Team   | Victor Guilherme Branco  |    [GitHub](https://github.com/VictorGuui)     | [Linkedin](https://www.linkedin.com/in/victor-guilherme-branco-portela-323386190/)|
 
 
 </div>
