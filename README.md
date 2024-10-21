@@ -22,7 +22,7 @@
   <h1>Projeto rodando...</h1>
 </div>
 <div align="center">
-  <img src="/assets/1°sprint-Kersys.gif" width="30%">
+  <img src="/assets/projeto-api-ezgif.com-speed.gif" width="30%">
 </div>
 
 <div align= "center">
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   
   <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white">
-</div>
+</div> 
 
 
 <div align="center" dir="auto">
@@ -62,8 +62,8 @@ Cada entrega foi realizada a partir da criação de uma **tag**. Observe a rela�
 | Sprint| Tag | Lançamento | Status | 
 |:-----:|:-------------:|:----------:|:---------:|
 | 01 | [sprint-01]() | 29/09/2024 | Entregue | 
-| 02 | [sprint-02]() | 20/10/2024 | Em Desenvolvimento | 
-| 03 | [sprint-03]() | 10/11/2024 | Não Iniciado | 
+| 02 | [sprint-02]() | 20/10/2024 | Entregue | 
+| 03 | [sprint-03]() | 10/11/2024 | Em Desenvolvimento | 
 | 04 | [sprint-04]() | 01/12/2024 | Não Iniciado |
 
 
